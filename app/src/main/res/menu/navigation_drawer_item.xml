@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sondeomovil.appventas.MainActivity">
+
+
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/item_inicio" />
+        <item
+            android:id="@+id/item_favoritos"
+            android:icon="@drawable/ic_stars_black_24dp"
+            android:title="@string/item_favoritos" />
+
+
+    </group>
+
+
+    <group
+        android:id="@+id/grp2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_configuration"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/item_configuration" />
+        <item
+            android:id="@+id/item_salir"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/item_salir" />
+
+
+    </group>
+
+
+</menu>

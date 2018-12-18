@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604037709859",
+    "project_id": "firebase-traductor-quechua-cat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604037709859:android:4ed2dc99469a330d",
+        "android_client_info": {
+          "package_name": "com.lolisapp.traductorquechua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604037709859-6m1801lctq00ihaqvk7hu8sqe7o7uh98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolisapp.traductorquechua",
+            "certificate_hash": "5cf07cf684bb4bd4bd86815880a279eed2bc4ae3"
+          }
+        },
+        {
+          "client_id": "604037709859-ogfaadjqdcuoi7mlevk34cf1b605sm1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsSWeuowOG-AUhuVKonsDbaNgPu8BvwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Traductor Quechua</string>
+
+
+    <!-- comun -->
+    <string name="boton_aceptacion_afirmativa">SI</string>
+    <string name="boton_aceptacion_negativa">NO</string>
+
+    <!-- handling errors -->
+    <string name="generic_server_down">El servidor no está disponible en este momento, por favor inténtelo otra vez en unos minutos</string>
+    <string name="no_internet">No se encuentra conectado a internet, por favor revise su conexión y vuelva a intentarlo.</string>
+    <string name="generic_error">Lo sentimos no hemos podido realizar su petición. Por favor inténtelo otra vez en unos minutos</string>
+    <string name="login_facebook_error">Lo sentimos no hemos podido crear su cuenta usando Facebook. Por favor inténtelo otra vez en unos minutos</string>
+
+    <!-- inicio -->
+    <string name="textBtnFaceLogin">ENTRAR CON FACEBOOK</string>
+    <string name="textBtnGoogleLogin">ENTRAR CON GOOGLE</string>
+    <string name="textBtnLogin">INICIAR SESION</string>
+    <string name="textBtnRegistro">REGISTRESE</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="item_inicio">Inicio</string>
+    <string name="item_favoritos">Frases favoritas</string>
+    <string name="item_editar">Mensajes de Texto</string>
+    <string name="item_categorias">CategorÃ­as</string>
+    <!-- itemMenuInicio -->
+
+    <string name="item_login">Iniciar sesion</string>
+
+    <!-- itemToolbar -->
+
+
+    <!-- registroActivity-->
+    <string name="registro_message_error_confirme_contrasena">Las contraseñas no coinciden</string>
+    <string name="registro_message_error_ingrese_correo_electronico">Por favor ingrese un correo electrónico</string>
+    <string name="registro_message_error_correo_electronico_invalido">Correo electrónico inválido</string>
+    <string name="registro_message_error_ingrese_contrasena_usuario">Ingrese una contraseña</string>
+    <string name="registro_message_error_mensaje_contribuyente_nulo">Usted no es contribuyente</string>
+    <string name="registro_message_error_ingrese_apellido_paterno">Ingrese apellido paterno</string>
+    <string name="registro_message_error_ingrese_apellido_materno">Ingrese apellido materno</string>
+    <string name="registro_message_error_ingrese_nombres">Ingrese nombres</string>
+    <string name="registro_message_error_campo_vacio">No puede dejar este campo vacío</string>
+
+    <string name="registro_message_registro_success">Se ha registrado exitosamente</string>
+    <string name="authentication_message_usuario_sat_flag_no_facebook">Usuario ya registrado en el SAT, favor ingrese con su contraseña</string>
+    <string name="registro_mensaje_seleccion_tipo_documento">Seleccione un pais</string>
+    <string name="registro_message_ya_tienes_cuenta">¿Ya tiene cuenta? Entrar</string>
+    <string name="login_activity_title">Iniciar Sesión</string>
+    <string name="ingrese_numero_documento">Ingrese un numero de documento</string>
+    <string name="seleccione_tipo_doc">Debe seleccionar un pais</string>
+
+
+    <!-- login  -->
+
+    <string name="login_fail_validation">Por favor verifique los datos ingresados</string>
+    <string name="login_email_invalid">Ingrese un correo electrónico valido</string>
+    <string name="login_password_invalid">Ingrese una contraseña entre 4 y 10 caracteres de longitud</string>
+    <string name="item_not_logged">Iniciar sesion</string>
+    <string name="item_salir">Salir</string>
+
+
+    <!-- vista opcion perfil-->
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="etiqueta_titulo_actualizar_contrasenia">Actualizar contraseña</string>
+    <string name="etiqueta_input_contrasenia_actual">Contraseña actual</string>
+    <string name="etiqueta_input_nueva_contrasenia">Nueva contraseña</string>
+    <string name="etiqueta_input_repita_nueva_contrasenia">Repita la nueva contraseña</string>
+    <string name="boton_guardar_pass">Guardar</string>
+    <string name="etiqueta_datos_cliente">Datos</string>
+    <string name="boton_guardar_telefono">Guardar</string>
+    <string name="mensaje_contrasenias_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="mensaje_ingrese_contrasenia">Ingrese una nueva contraseña</string>
+    <string name="mensaje_contraseniaa_actual_no_coincide">Su contraseña actual no cincide</string>
+    <string name="mensaje_vuelva_a_escribir_contrasenia">vuelva a escribir la nueva contraseÃ±a</string>
+    <string name="mensaje_ingrese_contrasenia_actual">Ingrese su actual contraseña</string>
+    <string name="mensaje_exito_actualizacion_password">Datos actualizados correctamente</string>
+
+    <string name="etiqueta_dato_cliente_correo">Correo: </string>
+    <string name="etiqueta_dato_cliente_nombre">Nombre: </string>
+
+    <string name="etiqueta_dato_cliente_telefono">Telefono: </string>
+    <string name="etiqueta_dato_cliente_numero_doc">NroDoc: </string>
+
+
+    <!-- vista configuracion-->
+    <string name="item_configuration">Configuración</string>
+    <string name="title_activity_configuracion">Configuración</string>
+    <string name="etiqueta_opcion_perfil">PERFIL</string>
+    <string name="etiqueta_subopcion_perfil">Información de cuenta</string>
+
+
+    <!-- common -->
+    <string name="aceptar_boton">ACEPTAR</string>
+    <string name="cancel_boton">CANCEL</string>
+    <string name="limpiar_boton">LIMPIAR</string>
+    <string name="confirmar_boton">CONFIRMAR</string>
+
+    <string name="mensaje_necesita_loguearse">Necesita autenticarse para poder acceder a esta opción</string>
+    <string name="titulo_dialogo_necesita_loguearse">Autenticación requerida</string>
+    <string name="mensaje_dialogo_necesita_loguearse">Necesita autenticarse para poder acceder a esta opciÃ³n</string>
+    <string name="text_sin_registros">No se encontraron registros</string>
+
+    <string name="mensaje_no_tiene_cuenta">¿No tiene cuenta? \n Registrese</string>
+
+
+    <!-- recuperacion pass -->
+    <string name="mensaje_exito_recuperar_contrasenia">Se le envió su nueva contraseña a su correo</string>
+
+    <string name="etiqueta_configuracion_sin_loguear">Usuario no autenticado</string>
+    <string name="facebook_app_id">282679715549737</string>
+    <string name="fb_login_protocol_scheme">fb282679715549737</string>
+
+
+    <!--registro -->
+    <string name="edit_text_hint_correo_electronico">Email</string>
+    <string name="edit_text_hint_correo_contrasenia">Password</string>
+    <string name="edit_text_hint_numero_documento">Número de Documento</string>
+    <string name="edit_text_hint_numero_telefono">Phone</string>
+    <string name="et_hint_escribe">Escribe para empezar ...</string>
+
+
+    <string name="message_ya_registrado">Usuario ya registrado anteriormente</string>
+
+    <string name="message_fail_login">Correo o contraseña incorrecta</string>
+
+
+    <string name="languaje_espaniol">Español</string>
+    <string name="languaje_quechua">Quechua</string>
+</resources>
