@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a7a3</color>
+    <color name="colorPrimaryDark">#00a7a3</color>
+    <color name="colorAccent">#F79521</color>
+
+
+
+    <color name="colorTextTitleDetall">#ff4f45</color>
+
+    <color name="alfa_black">#00000000</color>
+
+    <color name="text_color_fila_blanca_configuration">#7e7e7e</color>
+    <color name="color_cuadro_azul_contactenoss">#345E98</color>
+    <color name="color_iniciar_sesion_configuration">#345E98</color>
+
+    <color name="color_fila_ploma_comnfiguration">#F5F5F5</color>
+    <color name="colorCirclePageIndicatorDetalle">#ff4f45</color>
+    <color name="colorCircleFondoPageIndicatorDetalle">#E6E6E6</color>
+    <color name="colorTextDetallePrecioNormal">#BCBCBC</color>
+
+
+    <color name="colorBackgroundDetalle">#F4F4F4</color>
+    <color name="text_color_spinner_canasta">#BABABA</color>
+
+    <color name="background_color_pasarella">#FFFFFF</color>
+
+    <color name="color_text_button_pasarella">#B2B1B1</color>
+
+    <color name="color_cabecera_texto_wizard">#000000</color>
+    <color name="color_valor_texto_wizard">#B6B6B5</color>
+    <color name="resumen_totales_tagtextcolor">#000000</color>
+
+
+    <color name="color_fondo_carview_metodo_pago">#F7F7F7</color>
+
+    <color name="wizard_subtitle_textcolor">#000000</color>
+
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#CCCCCC</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="light_lead">#f3f3f3</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#020224</color>
+    <color name="blue_ssp">#00a7a3</color>
+
+    <color name="blue_face">#576ea5</color>
+    <color name="red">#FF0000</color>
+    <color name="red_google">#e02f2f</color>
+    <color name="ligthblue_twitter">#55acee</color>
+    <color name="franja_titulo">#efefef</color>
+    <color name="configuracion_background">#efefef</color>
+    <color name="background_activity_with_actionbar">#FFFFFF</color>
+    <color name="line_active_pasarella">#ffffff</color>
+    <color name="color_text_inactive_step">#ffb5b2</color>
+    <color name="color_text_check">#969696</color>
+    <color name="color_box_cantidad_canasta">#f3f3f3</color>
+
+</resources>

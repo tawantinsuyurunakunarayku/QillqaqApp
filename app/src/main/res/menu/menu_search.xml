@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lolisapp.traductorquechua.FavoritosActivity">
+    <item
+        android:id="@+id/action_moore"
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        android:orderInCategory="2"
+        android:title="More"
+        app:showAsAction="always"
+         >
+        <menu>
+            <item android:id="@+id/action_ordenar"
+                android:title="Ordenar" />
+            <item android:id="@+id/action_actualizar"
+                app:showAsAction="always"
+
+                android:title="Actualizar" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_buscar"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:iconifiedByDefault="true"
+        android:orderInCategory="1"
+        android:title="buscar"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always" />
+
+
+</menu>

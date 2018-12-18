@@ -1,0 +1,72 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="line_pasarella">1dp</dimen>
+    <dimen name="line_pasarella_active">2dp</dimen>
+
+
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="left_righ_space">16dp</dimen>
+
+    <dimen name="normal_space_botton">16dp</dimen>
+    <dimen name="normal_space_inicio_box">16dp</dimen>
+    <dimen name="space_block_inicio">4dp</dimen>
+    <dimen name="margin_card_viwe_canasta">8dp</dimen>
+    <dimen name="dimen_zona_botones">32dp</dimen>
+
+    <dimen name="normal_space">16dp</dimen>
+
+
+    <dimen name="space_right_circle">16dp</dimen>
+
+    <dimen name="dimen_badge">9dp</dimen>
+
+
+    <dimen name="paddig_vertical_texto_opcion_principal">16dp</dimen>
+    <dimen name="paddig_horizontal_texto_opcion_principal">16dp</dimen>
+    <dimen name="paddig_vertical_texto_subopcion_principal">16dp</dimen>
+    <dimen name="paddig_horizontal_texto_subopcion_principal">16dp</dimen>
+    <dimen name="ancho_alto_circle_inicio">40dp</dimen>
+    <dimen name="ancho_alto_image_button_inicio_fragment">50dp</dimen>
+
+    <dimen name="space_datos_cuenta">16dp</dimen>
+    <dimen name="height_cabecera_configuration">120dp</dimen>
+
+    <dimen name="height_fila_blanca_configuration">60dp</dimen>
+    <dimen name="height_fila_gris_configuration">60dp</dimen>
+    <dimen name="margin_right_arrow_configuration">16dp</dimen>
+
+
+    <dimen name="padding_boton_scrool_configuracion">150dp</dimen>
+    <dimen name="padding_boton_scrool_contactenos">100dp</dimen>
+    <dimen name="elevation_card_contactenos">2dp</dimen>
+    <dimen name="paddig_card_deuda_resumen">16dp</dimen>
+    <dimen name="height_divider_resu">2dp</dimen>
+    <dimen name="height_seccion_datos_consulta">120dp</dimen>
+    <dimen name="paddinz_zona_pago_resumen">8dp</dimen>
+    <dimen name="resumen_itemtitle_dim">17sp</dimen>
+
+    <dimen name="padding_between_title_and_bodytext">20dp</dimen>
+    <dimen name="dialog_title_size">20sp</dimen>
+    <dimen name="dimen_left_resumen_exito">16dp</dimen>
+    <dimen name="bottom_padding_success">50dp</dimen>
+    <dimen name="margin_resumen_totales">100dp</dimen>
+    <dimen name="resumen_totales_textsize">17sp</dimen>
+    <dimen name="resumen_totales_dolar_textsize">16sp</dimen>
+    <dimen name="wizard_subtitle_colorsize">18sp</dimen>
+    <dimen name="height_map_google">600dp</dimen>
+    <dimen name="left_right_space_box_cantidad">5dp</dimen>
+    <dimen name="margin_left_right_box_cantidad">4dp</dimen>
+    <dimen name="quantity_component_width">24dp</dimen>
+    <dimen name="quantity_component_height">24dp</dimen>
+    <dimen name="quantity_component_marginright">0dp</dimen>
+    <dimen name="height_output_sound" >150dp</dimen>
+    <dimen name="padding_init_icon">20dp</dimen>
+    <dimen name="padding_input_correo_height">8dp</dimen>
+
+</resources>
+

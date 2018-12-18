@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_tipo_doc">
+        <item>Tipo de documento</item>
+        <item>DNI/ Libreta Electoral</item>
+        <item>Carne de Identidad</item>
+        <item>Carne de Extranjería</item>
+        <item>Pasaporte</item>
+    </string-array>
+
+
+    <string-array name="array_cantidad">
+        <item>1 ud</item>
+        <item>2 uds</item>
+        <item>3 uds</item>
+        <item>4 uds</item>
+        <item>5 uds</item>
+        <item>6 uds</item>
+        <item>7 uds</item>
+        <item>8 uds</item>
+        <item>9 uds</item>
+        <item>10 uds</item>
+    </string-array>
+
+
+</resources>

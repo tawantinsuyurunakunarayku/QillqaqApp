@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="Base.Widget.AppCompat.Spinner">
+        <item name="android:textColor">#dad</item>
+    </style>
+
+    <style name="PrimaryButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="Button_pasarella">
+        <item name="colorButtonNormal">@color/background_color_pasarella</item>
+        <item name="android:textColor">@color/color_text_button_pasarella</item>
+        <item name="android:textStyle"></item>
+    </style>
+
+    <style name="SpecialButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">#555</item>
+        <item name="android:textColorPrimary">#fff</item>
+    </style>
+
+    <style name="FaceButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/blue_face</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="GoogleButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/red_google</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="WhiteButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/white</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="AccentButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
