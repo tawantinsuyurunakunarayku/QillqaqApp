@@ -64,7 +64,7 @@ Apart from exploring the code base in GitHub, you can also clone and build apk t
 
 4. Para finalizar se abrirá un Android Emulador y se instalará la aplicación automáticamente.
 
-![screenshot](images/11.jpg)
+![screenshot](images/11.JPG)
 
 
 
