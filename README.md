@@ -40,7 +40,7 @@ Apart from exploring the code base in GitHub, you can also clone and build apk t
 
 2. Se abrirá una ventana, y nos vamos a dirigir a la ruta en la cual se encuentra el proyecto "HuqariqApp-master", luego seleccionaremos el archivo "build.gradle".
 
-![screenshot](images/05.JPG)
+![screenshot](images/06.JPG)
 
 3. Hacemos Click en 'OK' y se abrirá el proyecto en Android Studio.
 
