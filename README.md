@@ -50,9 +50,9 @@ Apart from exploring the code base in GitHub, you can also clone and build apk t
 
 ![screenshot](images/08.jpg)
 
-4. Para finalizar, tan solo tendremos que ir a la carpeta en la que se encuentra nuestro proyecto. Ej. '..\HuqariqApp-master\app\build\outputs\apk\debug\app-debug.apk'. Lo vemos en la siguiente imagen, aunque recuerda que la ruta puedes cambiarla:
+4. Para finalizar, tan solo tendremos que ir a la carpeta en la que se encuentra nuestro proyecto. Ej. '..\QillqaqApp-master\app\build\outputs\apk\debug\app-debug.apk'. Lo vemos en la siguiente imagen, aunque recuerda que la ruta puedes cambiarla:
 
-![screenshot](images/09.jpg)
+![screenshot](images/12.jpg)
 
 #### Instalar aplicacion en un emulador Android
 
@@ -64,7 +64,7 @@ Apart from exploring the code base in GitHub, you can also clone and build apk t
 
 4. Para finalizar se abrirá un Android Emulador y se instalará la aplicación automáticamente.
 
-![screenshot](images/10.jpg)
+![screenshot](images/11.jpg)
 
 
 
