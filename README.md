@@ -34,12 +34,37 @@ Apart from exploring the code base in GitHub, you can also clone and build apk t
 
 (These instructions were tested with Android Studio version 2.2.2, 2.2.3, 2.3, and 2.3.2)
 
+1. Para poder probar la aplicación primero debes de abrir Android Studio y dirigirte a la opción "import project (Gradle, EclipseADT, etc.)".
 
-*  Open Android Studio and select File->Open... or from the Android Launcher.
-*  Select Import project (Eclipse ADT, Gradle, etc.) and navigate to the root directory of your project.
-*  Select the directory or drill in and select the file build.gradle in the cloned repo.
-*  Click 'OK' to open the the project in Android Studio.
-*  A Gradle sync should start, but you can force a sync and build the 'app' module as needed.
+![screenshot](images/04.png)
+
+2. Se abrirá una ventana, y nos vamos a dirigir a la ruta en la cual se encuentra el proyecto "HuqariqApp-master", luego seleccionaremos el archivo "build.gradle".
+
+![screenshot](images/05.JPG)
+
+3. Hacemos Click en 'OK' y se abrirá el proyecto en Android Studio.
+
+#### Exportar APK
+
+1. Si estamos situados en Android Studio con la aplicación abierta y queremos exportar el APK, lo que haremos es lo siguiente: Build > Build Bundle(s)/APK(s) > Build APK(s).
+
+![screenshot](images/08.jpg)
+
+4. Para finalizar, tan solo tendremos que ir a la carpeta en la que se encuentra nuestro proyecto. Ej. '..\HuqariqApp-master\app\build\outputs\apk\debug\app-debug.apk'. Lo vemos en la siguiente imagen, aunque recuerda que la ruta puedes cambiarla:
+
+![screenshot](images/09.jpg)
+
+#### Instalar aplicacion en un emulador Android
+
+1. Primero debes dirigirte a: Run > Run 'app'.
+2. Se nos abrirá una ventana llamada "Select Deployment Target", esta ventana nos mostrara si tenemos algún "Available virtual devices".
+3. Seleccionamos un dispositivo viral disponible,en caso contrario hacemos clic en "create New virtual Divice" y lo creamos según la capacidad de nuestra PC.
+
+![screenshot](images/07.JPG)
+
+4. Para finalizar se abrirá un Android Emulador y se instalará la aplicación automáticamente.
+
+![screenshot](images/10.jpg)
 
 
 
